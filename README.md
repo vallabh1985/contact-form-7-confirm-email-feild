@@ -1,19 +1,34 @@
 # contact-form-7-confirm-email-feild
 
+
+
 Welcome to the contact-form-7-confirm-email-feild wiki!
 
+
+
 Requires Contact form 7 version 4.1 and above
+
 Requires  wordpress version at least: 3.6 and above
 
+
+
 === Contact Form 7 Confirm Email Feild ===
+
 Contributors: Vallabh Vyas
+
 Tags: contact form 7, form, confirm email, cf7 confirm email feild, double check email 
+
 Requires at least: 3.8
+
 Tested up to: 4.1
 
 
 
+
+
 Add a confirm email field to Contact Form 7.
+
+
 
 == Description ==
 This "Contact Form 7 confirm email feild" plugin extends the "Contact Form 7" plugin to verify email address which is entered second time.
