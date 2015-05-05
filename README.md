@@ -2,8 +2,8 @@
 
 Welcome to the contact-form-7-confirm-email-feild wiki!
 
-#Requires Contact form 7 version 7.4.1 and above
-#Requires  wordpress version at least: 3.6 and above
+Requires Contact form 7 version 7.4.1 and above
+Requires  wordpress version at least: 3.6 and above
 
 === Contact Form 7 Confirm Email Feild ===
 Contributors: Vallabh Vyas
